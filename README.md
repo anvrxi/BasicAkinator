@@ -1,1 +1,1 @@
-This is not the final version
+akinator game template

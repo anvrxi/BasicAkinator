@@ -1,1 +1,1 @@
-akinator game template
+base idea for a robotics team guesser
